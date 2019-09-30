@@ -1,0 +1,32 @@
+Package: climate4R.CDO
+Depends:
+    R(>= 3.5.0)
+Imports:
+Suggests:
+    loadeR,
+    loadeR.ECOMS,
+    transformeR,
+    visualizeR,
+    downscaleR
+Type: Package
+Title: A climate4R package for CDO interpolation 
+Version: 0.0.0
+Date: 2019-09-30
+Authors@R: as.person(c(
+    "Santander Meteorology Group <http://meteo.unican.es> [cph]",
+    "Joaquín Bedia <bediaj@unican.es> [aut,cre]",
+    "Antonio Cofiño <antonio.cofino@unican.es> [ctb]",
+    "Matteo de Felice <matteo.defelice@enea.it> [ctb]",
+    "Jesus Fernández <fernandej@unican.es> [ctb]",
+    "José Manuel Gutiérrez <gutierjm@unican.es> [ctb]",
+    "Sixto Herrera <herreras@unican.es> [ctb]",
+    "Maialen Iturbide <miturbide@ifca.unican.es> [aut]",
+    "Etienne Tourigny <etienne.tourigny@bsc.es> [ctb]",
+    "Max Tuni <max@predictia.es> [ctb]",
+    "Manuel Vega <manuel.vega@unican.es> [ctb]"))
+BugReports: https://github.com/SantanderMetGroup/climate4R
+URL: https://github.com/SantanderMetGroup/climate4R
+Encoding: UTF-8
+Description: A climate4R package for CDO interpolation 
+License: file LICENSE
+RoxygenNote: 6.1.1
