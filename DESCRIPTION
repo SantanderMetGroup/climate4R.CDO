@@ -1,6 +1,8 @@
 Package: climate4R.CDO
 Depends:
-    R(>= 3.5.0)
+    R(>= 3.5.0),
+    loadeR,
+    loadeR.2nc
 Imports:
 Suggests:
     loadeR,
